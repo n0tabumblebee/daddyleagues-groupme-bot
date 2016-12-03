@@ -3,7 +3,7 @@
 	<config>
 		<baseurl>http://daddyleagues.com/boogie82</baseurl>
 		<league>Boogie82</league>
-		<cmdprefix>/</cmdprefix>
+		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1500</charlimit>
 	</config>
@@ -35,7 +35,7 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>
+		<buf/>
 		<mia/>
 		<ne/>twitch.tv/n0tabumblebee<ne/>
 		<nyj/>
