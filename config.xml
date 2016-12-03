@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <all>
 	<config>
-		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
-		<cmdprefix>?</cmdprefix>
+		<baseurl>http://daddyleagues.com/boogie82</baseurl>
+		<league>Boogie82</league>
+		<cmdprefix>/</cmdprefix>
 		<pslimit>5</pslimit>
-		<charlimit>1000</charlimit>
+		<charlimit>1500</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
+		<league>Boogie82</league>
+		<commish>n0tabumblebee (Commish/Patriots), Commish Zocs (Eagles), Falcons Freeman OTB - Commish</commish>
+		<rules>daddyleagues.com/boogie82/rules</rules>
+		<owners>http://daddyleagues.com/boogie82/coaches</owners>
+		<advance>12/5, 9pm EST</advance>
+		<draft>TBD</draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
-		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
+		<ring>Logan Miller (Broncos) - S1</ring>
 	</img>
 	<youtube>
 		<signman>https://www.youtube.com/channel/UCzLK6pOdCYmkEWWoEIxOJ2g</signman>
@@ -35,9 +35,9 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>sometwitchname</buf>
+		<buf>
 		<mia/>
-		<ne/>
+		<ne/>twitch.tv/n0tabumblebee<ne/>
 		<nyj/>
 		
 		<bal/>
@@ -57,7 +57,7 @@
 		
 		<dal/>
 		<nyg/>
-		<phi/>
+		<phi/>Www.twitch.tv/zocs325<phi/>
 		<was/>
 		
 		<chi/>
